@@ -3,4 +3,4 @@
 - I am currently learning javascript (fun!)🫶🏽
 - 💞️ I am looking to collaborate, have coffee chats, and learn more about this wonderful community. 
 
-- 📧 📫 How to reach me: email, and linkedin
+- 📧 📫 How to reach me: email
