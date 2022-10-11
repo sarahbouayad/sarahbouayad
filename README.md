@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Sarah Bouayad! 
 #### 👀 I am a fullstack Software Engineer with Resilient Coders.
-![👀 I am a fullstack Software Engineer with Resilient Coders.]
 
 💞️ I am looking to collaborate, have coffee chats, and learn more about this wonderful community. 
 
