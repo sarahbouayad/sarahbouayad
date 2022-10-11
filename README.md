@@ -1,7 +1,7 @@
+![Header](./github-header-image.png)
+
 ### Hi there 👋, my name is Sarah Bouayad!
 #### 👀 I am a fullstack Software Engineer with Resilient Coders. 
-
-![Header](./github-header-image.png)
 
 
 💞️ I am looking to collaborate, have coffee chats, and learn more about this wonderful community. 
