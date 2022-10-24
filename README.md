@@ -25,4 +25,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahbouayad)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahbouayad&show_icons=true)  
-
