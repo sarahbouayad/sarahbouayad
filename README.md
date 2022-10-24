@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+![github-header-image](https://user-images.githubusercontent.com/112355619/197630165-27740a10-c28c-4c35-9d79-3d139cd536e2.png)
+
 
 ### Hi there 👋, my name is Sarah Bouayad!
 #### 👀 I am a Software Engineer with Resilient Coders. 
