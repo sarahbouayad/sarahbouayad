@@ -33,7 +33,8 @@
 
 
 <br>
-# Project Highlights
+### Project Highlights
+
 ## Futuristic Phone Collection E-Commerce Website
 
 [![ezgif-3-44eeb847f8](https://user-images.githubusercontent.com/112355619/201748098-6e577ea3-2aa9-491a-9a70-fb940054b685.gif)](https://github.com/sarahbouayad/fullstackproject3.git)
