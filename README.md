@@ -8,7 +8,7 @@
 💞️ I am looking to collaborate, have coffee chats, and learn more about this wonderful community. 
 
 
-## Programming Lanuages
+## Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
@@ -33,9 +33,9 @@
 
 
 <br>
-### Project Highlights
+## Project Highlights
 
-## Futuristic Phone Collection E-Commerce Website
+#### Futuristic Phone Collection E-Commerce Website
 
 [![ezgif-3-44eeb847f8](https://user-images.githubusercontent.com/112355619/201748098-6e577ea3-2aa9-491a-9a70-fb940054b685.gif)](https://github.com/sarahbouayad/fullstackproject3.git)
 
