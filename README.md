@@ -36,12 +36,14 @@
 
 ## Project Highlights
 
-#### Futuristic Phone Collection E-Commerce Website
+#### 📱 Futuristic Phone Collection E-Commerce Website
 
 [![ezgif-3-44eeb847f8](https://user-images.githubusercontent.com/112355619/201748098-6e577ea3-2aa9-491a-9a70-fb940054b685.gif)](https://github.com/sarahbouayad/fullstackproject3.git)
 
-#### Job Board: Create Your Own Hitlist 
+#### 📝 Job Board: Create Your Own Hitlist 
 
 [![jobboard](https://user-images.githubusercontent.com/112355619/202931360-b32a6d4d-b103-4c9e-86e0-ede46848e436.gif)](https://github.com/sarahbouayad/jobboard.git)
+
+#### 🍕 Pizza Express: Order A Pizza Now!  
 
 
