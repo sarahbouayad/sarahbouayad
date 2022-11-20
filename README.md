@@ -42,6 +42,6 @@
 
 #### Job Board: Create Your Own Hitlist 
 
-[![jobboard](https://user-images.githubusercontent.com/112355619/202931360-b32a6d4d-b103-4c9e-86e0-ede46848e436.gif)]([https://github.com/sarahbouayad/fullstackproject3.git](https://github.com/sarahbouayad/jobboard))
+[![jobboard](https://user-images.githubusercontent.com/112355619/202931360-b32a6d4d-b103-4c9e-86e0-ede46848e436.gif)](https://github.com/sarahbouayad/jobboard.git)
 
 
