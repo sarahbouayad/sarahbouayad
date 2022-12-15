@@ -29,6 +29,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-68A063?style=for-the-badge&logo=NODE.JS&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MONGODB-E8E7D5?style=for-the-badge&logo=MONGODB&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Check These Out: 
 [![CODEWARS](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/sarahbouayad)
@@ -63,8 +64,9 @@
 
 ### Current Reads:
 
-- 📒 [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
+- 📒 [Clean Code: A Handbook of Agile Software Craftsmanship](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 - 📒 [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
+- 📒 [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 ### Support Me
 
