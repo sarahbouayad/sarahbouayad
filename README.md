@@ -36,8 +36,6 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahbouayad/)
 
 
-
-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahbouayad)](https://github.com/anuraghazra/github-readme-stats)
@@ -63,5 +61,12 @@
 
 [![foodordering](https://user-images.githubusercontent.com/112355619/202934807-0d4b387b-6b00-4669-8990-52e15a884572.gif)](https://github.com/sarahbouayad/foodordering.git)
 
+### Current Reads:
 
+- 📒 [15 GitHub Repositories to Contribute for Hacktoberfest 2022](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
+- 📒 [Open Source for Developers – A Beginner's Handbook to Help You Start Contributing](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/sarahbouayad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
