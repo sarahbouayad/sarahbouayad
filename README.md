@@ -56,7 +56,7 @@
 
 #### 📝 Job Board: Create Your Own Hitlist 
 
-[![jobboard](https://user-images.githubusercontent.com/112355619/202931360-b32a6d4d-b103-4c9e-86e0-ede46848e436.gif = 100x)](https://github.com/sarahbouayad/jobboard.git)
+[![jobboard](https://user-images.githubusercontent.com/112355619/202931360-b32a6d4d-b103-4c9e-86e0-ede46848e436.gif = 100x100)](https://github.com/sarahbouayad/jobboard.git)
 
 #### 🍕 Pizza Express: Order A Pizza Now!  
 
