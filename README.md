@@ -5,8 +5,23 @@
 #### 👀 I am a Software Engineer with Resilient Coders. 
 
 
-💞️ I am looking to collaborate, have coffee chats, and learn more about this wonderful community. 
+<p> 💞️ I am looking to collaborate, have coffee chats, and learn more about this wonderful community. 
+  
+ I would love to accept full stack developer roles, internships, or apprenticeships! 💻 </p>
+ 
+- 🌎 I'm based in Philadelphia, PA.
+- 🖥️ See [My Portfolio](https://www.sarahbouayad.com)
+- 👩🏽‍💻 I’m currently working on React.
+- 🌱 I’m learning Data Structures and Algorithms.  
+- ☀️ I love to work on open-source library.
+- 👯 Currently working with a dev team of 29 people and building different projects together.
+- 🤔 I’m looking for coffee chats! 
+- 💬 Ask me about a project collaboration.
+- ✉️ For work opportunities, you can contact me at [sarahbouayad@outlook.com](mailto:sarahbouayad@outlook.com)
+- 😄 Pronouns: She/Her
+- 🥾 Fun fact: I love hiking! 
 
+<br/>
 
 ## Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
