@@ -52,7 +52,7 @@
 
 #### 🧿 Gathered and Empowered
 
-<a href="[https://github.com/sarahbouayad/fullstackproject3.git](https://github.com/sarahbouayad/gatheredandempowered)"><img src="https://user-images.githubusercontent.com/112355619/212996138-57cd01e6-d314-48f9-b582-147e71d35863.gif" width=50% height=50%>
+<a href="https://github.com/sarahbouayad/gatheredandempowered"><img src="https://user-images.githubusercontent.com/112355619/212996138-57cd01e6-d314-48f9-b582-147e71d35863.gif" width=50% height=50%>
 
 
 #### 📱 Futuristic Phone Collection E-Commerce Website
