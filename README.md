@@ -46,9 +46,14 @@
 
 <br>
 
-[![Top Langs](github-readme-stats-sarahbouayad.vercel.app/api/top-langs/?username=sarahbouayad)]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahbouayad&show_icons=true)  
+<a href="https://github.com/sarahbouayad/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sarahbouayad.vercel.app/api/top-langs/?username=sarahbouayad&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats-sarahbouayad.vercel.app/api/top-langs/?username=sarahbouayad&repo=convoychatshow_icons=true" />
+</a>
+
 
 
 
