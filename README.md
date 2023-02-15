@@ -14,12 +14,12 @@
 - 👩🏽‍💻 I’m currently working on React.
 - 🌱 I’m learning Data Structures and Algorithms.  
 - ☀️ I love to work on open-source library.
-- 👯 Currently working with a dev team of 29 people and building different projects together.
-- 🤔 I’m looking for coffee chats! 
+- 👯 Currently working as a freelance developer. 
+- 🤔 I’m looking for coffee chats and open opportunities ! 
 - 💬 Ask me about a project collaboration.
 - ✉️ For work opportunities, you can contact me at [sarahbouayad@outlook.com](mailto:sarahbouayad@outlook.com)
 - 😄 Pronouns: She/Her
-- 🥾 Fun fact: I love hiking! 
+- 🥊 Fun fact: I love kickboxing! 
 
 <br/>
 
