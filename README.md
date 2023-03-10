@@ -33,10 +33,14 @@
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-## CSS Frameworks 
+## Frameworks/Tools
 ![CSS3](https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=CSS3&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+##DevOps: 
+
+##Design/Prototyping: 
 
 ## Check These Out: 
 [![CODEWARS](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/sarahbouayad)
