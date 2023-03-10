@@ -24,7 +24,6 @@
 <br/>
 
 ## Programming Languages
-![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,17 +34,18 @@
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-68A063?style=for-the-badge&logo=NODE.JS&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MONGODB-E8E7D5?style=for-the-badge&logo=MONGODB&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=CSS3&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-## DevOps: 
+## DevOps
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## Design/Prototyping: 
+## Design/Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
