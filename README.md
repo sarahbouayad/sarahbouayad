@@ -61,15 +61,6 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-sarahbouayad.vercel.app/api?username=sarahbouayad&show_icons=true" />
-</a>
-<br>
-<a href="https://github.com/sarahbouayad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sarahbouayad.vercel.app/api/top-langs/?username=sarahbouayad&repo=github-readme-stats" />
-</a>
-
-
 
 
 
