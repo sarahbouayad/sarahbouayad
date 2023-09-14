@@ -2,20 +2,21 @@
 
 
 ### Hi there 👋, my name is Sarah Bouayad!
-#### 👀 I am a Software Engineer with Resilient Coders. 
+#### 👀 I am a Software Engineer and Executive Administrator at MacguyverTech. 🌟
 
 
-<p> 💞️ I am looking to collaborate, have coffee chats, and learn more about this wonderful community. 
+<p> 💞️ I am looking to collaborate, have coffee chats, and learn more about this wonderful community.</p>
+<p> 👩🏽‍💻 I want to get involved in open-source projects</p>
   
- I would love to accept full stack developer roles, internships, or apprenticeships! 💻 </p>
+ <p>I am also interested in looking more about dev opportunities! 💻 </p>
  
 - 🌎 I'm based in Philadelphia, PA.
 - 🖥️ See [My Portfolio](https://www.sarahbouayad.com)
-- 👩🏽‍💻 I’m currently working on React.
-- 🌱 I’m learning Data Structures and Algorithms.  
-- ☀️ I love to work on open-source library.
-- 👯 Currently working as a freelance developer. 
-- 🤔 I’m looking for coffee chats and open opportunities ! 
+- 🌻 Check out my company [Medina Creative](https://www.themedinacreative.com)
+- 👩🏽‍💻 I’m currently working on Vue.js.
+- 🌱 I’m learning how to work with large datasets.
+- ☀️ I love to work on open-source libraries.
+- 🤔 I’m looking for coffee chats and open opportunities! 
 - 💬 Ask me about a project collaboration.
 - ✉️ For work opportunities, you can contact me at [sarahbouayad@outlook.com](mailto:sarahbouayad@outlook.com)
 - 😄 Pronouns: She/Her
