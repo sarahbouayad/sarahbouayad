@@ -13,7 +13,7 @@
 - 🌎 I'm based in Philadelphia, PA.
 - 🖥️ See [My Portfolio](https://www.sarahbouayad.com)
 - 🌻 Check out my company [Medina Creative](https://www.themedinacreative.com)
-- 👩🏽‍💻 I’m currently working on Vue.js.
+- 👩🏽‍💻 I’m currently working on getting a BIG tech job! 
 - 🌱 I’m learning how to work with large datasets.
 - ☀️ I love to work on open-source libraries.
 - 🤔 I’m looking for coffee chats and open opportunities! 
