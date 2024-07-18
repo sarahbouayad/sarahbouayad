@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, my name is Sarah Bouayad!
-#### 👀 I am a Software Engineer and Executive Administrator at MacguyverTech. 🌟
+#### 👀 I am a Software Engineer at Heart for Girls. I am also a WordPress Developer, Web Designer, and Brand Content Strategist at Medina Creative. 🌟
 
 
 <p> 💞️ I am looking to collaborate, have coffee chats, and learn more about this wonderful community.</p>
