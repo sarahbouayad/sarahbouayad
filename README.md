@@ -28,7 +28,7 @@ I am also a WordPress Developer, Web Designer, and Brand Content Strategist at M
 
 ## Programming Languages
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PYTHON](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
 
 
